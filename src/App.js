@@ -6,9 +6,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Hola leonard!
-        </p>
+        <p> Hola leonard coomit1! </p>
+        <p> Hola leonard coommit_2! </p>  
+        <p>commit del first-branch</p>      
         <a
           className="App-link"
           href="https://reactjs.org"
